@@ -31,7 +31,7 @@ The implementation process is explained in detail in each notebook.
 
 The weights and bias of each network was decided after 67000 epochs and 75000 epochs for respective dataset which gave an accuracy as shown in the below images
 
-**Loss Function after 67000 for Cancer Dataset**
+**Loss Function after 67000 iterations for Cancer Dataset**
 
 ![Loss Function after 67000](./supporting_visualizations/Loss.png)
 
