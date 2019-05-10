@@ -20,7 +20,7 @@ Just run the Jupyter Notebook through Anaconda
 # Process Explanation
 We are implementing a two layer NN where input layer has neurons equal to the features in our respective dataset and the hidden layer has 15 neurons for cancer dataset and 20 neurons for liver dataset
 
-![Example of one such Neural Network](Network.png)
+![Example of one such Neural Network](./supporting_visualizations/Network.png)
 
 The implementation process is explained in detail in each notebook.
 
@@ -28,9 +28,9 @@ The implementation process is explained in detail in each notebook.
 
 The weights and bias of each network was decided after 67000 epochs and 75000 epochs for respective dataset which gave an accuracy as shown in the below images
 
-![Loss Function after 67000](Loss.png)
+![Loss Function after 67000](./supporting_visualizationsLoss/.png)
 
-![Accuracy through confusion matrix](Threshold 0.5.png)
+![Accuracy through confusion matrix](./vizualisation/Threshold 0.5.png)
 
 
 # Project Structure
