@@ -28,9 +28,9 @@ The implementation process is explained in detail in each notebook.
 
 The weights and bias of each network was decided after 67000 epochs and 75000 epochs for respective dataset which gave an accuracy as shown in the below images
 
-![Loss Function after 67000](./supporting_visualizationsLoss/.png)
+![Loss Function after 67000](./supporting_visualizations/Loss.png)
 
-![Accuracy through confusion matrix](./vizualisation/Threshold 0.5.png)
+![Accuracy through confusion matrix](./vizualisation/Threshold_0.5.png)
 
 
 # Project Structure
