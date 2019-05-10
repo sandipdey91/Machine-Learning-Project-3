@@ -43,7 +43,7 @@ The weights and bias of each network was decided after 67000 epochs and 75000 ep
 # Project Structure
 - Data : Datasets
 - Notebook : Neural_Network_Cancer_Dataset.ipynb and Neural_Network_Liver_Dataset.ipnyb
-- Vizualisation - Accuracy graph
+- Vizualisation - Accuracy graphs
 
 # References
 https://medium.com/coinmonks/neural-network-from-scratch-tumour-diagnosis-354abbcb2f3b
