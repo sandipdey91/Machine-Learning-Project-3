@@ -21,7 +21,7 @@ Just run the Jupyter Notebook through Anaconda
 We are implementing a two layer NN where input layer has neurons equal to the features in our respective dataset and the hidden layer has 15 neurons for cancer dataset and 20 neurons for liver dataset
 
 <figure class="image">
-  <figcaption>{{"Example of one such Neural Network"}}</figcaption>
+  <figcaption></b>"Example of one such Neural Network"</b></figcaption>
   <img src="./supporting_visualizations/Network.png">
 </figure>
 
